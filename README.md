@@ -155,8 +155,8 @@ void loop()
 ![WhatsApp Image 2024-11-06 at 10 19 55_90096b2e](https://github.com/user-attachments/assets/4b66ceaa-16a4-4c5a-a6af-78e231d76724)
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/fe35ae1b-8521-49bb-97b5-44dd8cafff0b)
-<img src="https://github.com/user-attachments/assets/9b3ab6b4-9398-4218-a10b-949453e28dba" alt="image" style="width: 42%;">
+<img src="https://github.com/user-attachments/assets/fe35ae1b-8521-49bb-97b5-44dd8cafff0b" alt="image" style="width: 49%;">
+<img src="https://github.com/user-attachments/assets/9b3ab6b4-9398-4218-a10b-949453e28dba" alt="image" style="width: 50%;">
 
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
