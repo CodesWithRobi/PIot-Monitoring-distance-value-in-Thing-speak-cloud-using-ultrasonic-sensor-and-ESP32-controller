@@ -156,7 +156,7 @@ void loop()
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/fe35ae1b-8521-49bb-97b5-44dd8cafff0b)
-![image](https://github.com/user-attachments/assets/9b3ab6b4-9398-4218-a10b-949453e28dba)
+<img src="https://github.com/user-attachments/assets/9b3ab6b4-9398-4218-a10b-949453e28dba" alt="image" style="width: 42%;">
 
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
